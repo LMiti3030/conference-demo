@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+app:
+  creator: Laura Mititelu
+  version: 3.0.0
